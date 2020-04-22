@@ -1,0 +1,39 @@
+C:\Users\Miłosz\source\repos\image\image\bin\Debug\image.exe.config
+C:\Users\Miłosz\source\repos\image\image\bin\Debug\image.exe
+C:\Users\Miłosz\source\repos\image\image\bin\Debug\image.pdb
+C:\Users\Miłosz\source\repos\image\image\obj\Debug\image.Form1.resources
+C:\Users\Miłosz\source\repos\image\image\obj\Debug\image.Properties.Resources.resources
+C:\Users\Miłosz\source\repos\image\image\obj\Debug\image.csproj.GenerateResource.cache
+C:\Users\Miłosz\source\repos\image\image\obj\Debug\image.csproj.CoreCompileInputs.cache
+C:\Users\Miłosz\source\repos\image\image\obj\Debug\image.exe
+C:\Users\Miłosz\source\repos\image\image\obj\Debug\image.pdb
+C:\Users\Miłosz\source\repos\image\image\obj\Debug\image.csprojAssemblyReference.cache
+D:\Dokumenty (D)\Studia\Projekt-paint-master\image.02\image\bin\Debug\image.exe.config
+D:\Dokumenty (D)\Studia\Projekt-paint-master\image.02\image\bin\Debug\image.exe
+D:\Dokumenty (D)\Studia\Projekt-paint-master\image.02\image\bin\Debug\image.pdb
+D:\Dokumenty (D)\Studia\Projekt-paint-master\image.02\image\obj\Debug\image.Form1.resources
+D:\Dokumenty (D)\Studia\Projekt-paint-master\image.02\image\obj\Debug\image.Properties.Resources.resources
+D:\Dokumenty (D)\Studia\Projekt-paint-master\image.02\image\obj\Debug\image.csproj.GenerateResource.cache
+D:\Dokumenty (D)\Studia\Projekt-paint-master\image.02\image\obj\Debug\image.exe
+D:\Dokumenty (D)\Studia\Projekt-paint-master\image.02\image\obj\Debug\image.pdb
+D:\Dokumenty (D)\Studia\Projekt-paint-master\image.02\image\obj\Debug\image.csprojAssemblyReference.cache
+C:\Users\Miłosz\Desktop\image.02\image\bin\Debug\image.exe.config
+C:\Users\Miłosz\Desktop\image.02\image\bin\Debug\image.exe
+C:\Users\Miłosz\Desktop\image.02\image\bin\Debug\image.pdb
+C:\Users\Miłosz\Desktop\image.02\image\obj\Debug\image.csprojAssemblyReference.cache
+C:\Users\Miłosz\Desktop\image.02\image\obj\Debug\image.Form1.resources
+C:\Users\Miłosz\Desktop\image.02\image\obj\Debug\image.Properties.Resources.resources
+C:\Users\Miłosz\Desktop\image.02\image\obj\Debug\image.csproj.GenerateResource.cache
+C:\Users\Miłosz\Desktop\image.02\image\obj\Debug\image.csproj.CoreCompileInputs.cache
+C:\Users\Miłosz\Desktop\image.02\image\obj\Debug\image.exe
+C:\Users\Miłosz\Desktop\image.02\image\obj\Debug\image.pdb
+C:\Users\Miłosz\Desktop\image.03\image\bin\Debug\image.exe.config
+C:\Users\Miłosz\Desktop\image.03\image\bin\Debug\image.exe
+C:\Users\Miłosz\Desktop\image.03\image\bin\Debug\image.pdb
+C:\Users\Miłosz\Desktop\image.03\image\obj\Debug\image.csprojAssemblyReference.cache
+C:\Users\Miłosz\Desktop\image.03\image\obj\Debug\image.Form1.resources
+C:\Users\Miłosz\Desktop\image.03\image\obj\Debug\image.Properties.Resources.resources
+C:\Users\Miłosz\Desktop\image.03\image\obj\Debug\image.csproj.GenerateResource.cache
+C:\Users\Miłosz\Desktop\image.03\image\obj\Debug\image.csproj.CoreCompileInputs.cache
+C:\Users\Miłosz\Desktop\image.03\image\obj\Debug\image.exe
+C:\Users\Miłosz\Desktop\image.03\image\obj\Debug\image.pdb
