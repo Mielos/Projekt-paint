@@ -1,0 +1,20 @@
+C:\Users\Ja\source\repos\image\bin\Debug\image.exe.config
+C:\Users\Ja\source\repos\image\bin\Debug\image.exe
+C:\Users\Ja\source\repos\image\bin\Debug\image.pdb
+C:\Users\Ja\source\repos\image\obj\Debug\image.csprojAssemblyReference.cache
+C:\Users\Ja\source\repos\image\obj\Debug\image.Properties.Resources.resources
+C:\Users\Ja\source\repos\image\obj\Debug\image.csproj.GenerateResource.cache
+C:\Users\Ja\source\repos\image\obj\Debug\image.csproj.CoreCompileInputs.cache
+C:\Users\Ja\source\repos\image\obj\Debug\image.exe
+C:\Users\Ja\source\repos\image\obj\Debug\image.pdb
+C:\Users\Ja\source\repos\image\obj\Debug\image.MyPaint.resources
+D:\Dokumenty (D)\Studia\image\bin\Debug\image.exe.config
+D:\Dokumenty (D)\Studia\image\bin\Debug\image.exe
+D:\Dokumenty (D)\Studia\image\bin\Debug\image.pdb
+D:\Dokumenty (D)\Studia\image\obj\Debug\image.csprojAssemblyReference.cache
+D:\Dokumenty (D)\Studia\image\obj\Debug\image.MyPaint.resources
+D:\Dokumenty (D)\Studia\image\obj\Debug\image.Properties.Resources.resources
+D:\Dokumenty (D)\Studia\image\obj\Debug\image.csproj.GenerateResource.cache
+D:\Dokumenty (D)\Studia\image\obj\Debug\image.csproj.CoreCompileInputs.cache
+D:\Dokumenty (D)\Studia\image\obj\Debug\image.exe
+D:\Dokumenty (D)\Studia\image\obj\Debug\image.pdb
